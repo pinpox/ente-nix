@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1720593588,
+        "narHash": "sha256-c30VINubKGGYK9DUvUN5m5D14N88GMMwqvh92inKtxY=",
+        "owner": "doronbehar",
+        "repo": "nixpkgs",
+        "rev": "238d267aefbd89add1700d4672392db7dd1d821b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "doronbehar",
+        "ref": "pkg/yarnConfigHook",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
