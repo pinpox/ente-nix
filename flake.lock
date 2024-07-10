@@ -2,16 +2,16 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1720593588,
-        "narHash": "sha256-c30VINubKGGYK9DUvUN5m5D14N88GMMwqvh92inKtxY=",
-        "owner": "doronbehar",
+        "lastModified": 1720476960,
+        "narHash": "sha256-8mFHUc+nJoB41EGe3TcVuSwV1HaVXYVVs+rjaszOXsM=",
+        "owner": "pinpox",
         "repo": "nixpkgs",
-        "rev": "238d267aefbd89add1700d4672392db7dd1d821b",
+        "rev": "dd148685d0b67cb202891add5b700f3895409d57",
         "type": "github"
       },
       "original": {
-        "owner": "doronbehar",
-        "ref": "pkg/yarnConfigHook",
+        "owner": "pinpox",
+        "ref": "init-ente-server",
         "repo": "nixpkgs",
         "type": "github"
       }

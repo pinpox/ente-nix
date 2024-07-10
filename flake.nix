@@ -2,8 +2,9 @@
   description = "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos ";
 
   # Nixpkgs / NixOS version to use.
-  inputs.nixpkgs-doronbehar.url = "github:doronbehar/nixpkgs/pkg/yarnConfigHook";
-  inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
+
+  inputs.nixpkgs.url = "github:pinpox/nixpkgs/init-ente-server";
+  # inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
 
   outputs = { self, nixpkgs }:
     let
